@@ -1,1 +1,2 @@
-# challenge01
+# Resumo do Projeto
+Este projeto apresenta uma análise comparativa do desempenho das quatro lojas disponíveis para aquisição, com base em indicadores-chave de performance. Foram avaliados: faturamento total, produtos mais e menos vendidos, satisfação dos clientes através de avaliações, categorias com maior demanda e eficiência logística medida pelo custo médio de frete. O objetivo é identificar a loja com melhor potencial de retorno financeiro e menor risco operacional.
